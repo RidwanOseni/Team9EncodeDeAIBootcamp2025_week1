@@ -9,7 +9,9 @@ A conversational AI that helps users explore Nigerian cuisine by providing:
 
 Getting Started
 1️⃣ Clone the Repository
-```git clone https://github.com/RidwanOseni/Team9EncodeDeAIBootcamp2025_week1.git```
+```
+git clone https://github.com/RidwanOseni/Team9EncodeDeAIBootcamp2025_week1.git
+```
 ```cd Team9EncodeDeAIBootcamp2025_week1```
 
 2️⃣ Set Up a Virtual Environment (Recommended)
