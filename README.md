@@ -35,7 +35,8 @@ pip install -r requirements.txt
 
 4️⃣ Run the Script
 ```
-python main.py
+cp .env.sample .env # PUT YOUR OPENAI KEY
+python YOUR_CHEF.py
 ```
 
 🔗 Contributing     
